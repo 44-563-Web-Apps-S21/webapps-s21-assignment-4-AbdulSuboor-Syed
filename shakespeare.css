@@ -1,0 +1,45 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: black ;
+    background-color: lightgreen;
+    
+}
+stage-direction:hover{
+    background-color: gray;
+    color: white;
+}
+
+.name{
+    font-family: cursive;
+    font-size: 18px;
+    color:black ;
+}
+.THESEUS{
+    color: darkgreen;
+}
+
+.HIPPOLYTA{
+    color: darkmagenta;
+}
+
+.EGEUS{
+    color: darksalmon;
+}
+
+.HERMIA{
+    color: dimgray;
+}
+
+.LYSANDER{
+    color: gold;
+}
+
+.DEMETRIUS{
+    color: lime;
+}
