@@ -1,27 +1,27 @@
 .speech{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
     color: black;
 }
 .stage-direction{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px;
+    font-size: 17px;
     color: black ;
     background-color: lightgreen;
-    
+   
 }
-stage-direction:hover{
+.stage-direction:hover{
     background-color: gray;
     color: white;
 }
 
 .name{
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     color:black ;
 }
 .THESEUS{
-    color: darkgreen;
+    color: orange;
 }
 
 .HIPPOLYTA{
@@ -29,11 +29,11 @@ stage-direction:hover{
 }
 
 .EGEUS{
-    color: darksalmon;
+    color: red;
 }
 
 .HERMIA{
-    color: dimgray;
+    color: pink;
 }
 
 .LYSANDER{
