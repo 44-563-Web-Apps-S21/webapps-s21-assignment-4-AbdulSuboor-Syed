@@ -58,3 +58,8 @@ tr:nth-child(even){
 table, th, td {
     border: 2px solid grey;
   }
+.name:hover{
+    text-shadow:5px 5px 5px blue;
+    border: blue;
+    border: dotted;
+}
